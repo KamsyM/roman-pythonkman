@@ -9,6 +9,7 @@ SINGLE_DIGIT_ROMANS: Dict[str, int] = {
     'C': 100,
     'D': 500,
     'M': 1000,
+    'Z': 1000,
 }
 
 
